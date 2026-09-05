@@ -119,7 +119,7 @@ export const Scene03Solution: React.FC = () => {
           style={{
             fontFamily: cairo,
             fontWeight: 900,
-            fontSize: 138,
+            fontSize: 126,
             lineHeight: 1.26,
             background: 'linear-gradient(180deg, #FFF6E2 0%, #F0C878 48%, #C9973F 100%)',
             WebkitBackgroundClip: 'text',

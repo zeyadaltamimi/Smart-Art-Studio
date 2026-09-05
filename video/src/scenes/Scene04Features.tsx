@@ -51,7 +51,7 @@ export const Scene04Features: React.FC = () => {
           style={{
             fontFamily: cairo,
             fontWeight: 900,
-            fontSize: 116,
+            fontSize: 106,
             color: '#FFF6E2',
             lineHeight: 1.3,
             opacity: interpolate(frame, [8, 30], [0, 1], {
@@ -74,7 +74,7 @@ export const Scene04Features: React.FC = () => {
           style={{
             fontFamily: cairo,
             fontWeight: 900,
-            fontSize: 124,
+            fontSize: 114,
             lineHeight: 1.3,
             background: 'linear-gradient(180deg, #FFF6E2 0%, #F0C878 50%, #C9973F 100%)',
             WebkitBackgroundClip: 'text',
